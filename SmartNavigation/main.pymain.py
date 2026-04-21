@@ -51,3 +51,4 @@ goal = 'F'
 print("BFS Path:", bfs(start, goal))
 print("DFS Path:", dfs(start, goal))
 Added BFS and DFS Smart Navigation system
+Added comments
