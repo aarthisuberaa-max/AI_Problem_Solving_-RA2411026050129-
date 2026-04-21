@@ -44,6 +44,7 @@ def dfs(start, goal, path=[]):
                 return new_path
 
 # Run program
+# Smart Navigation using BFS and DFS
 start = 'A'
 goal = 'F'
 
