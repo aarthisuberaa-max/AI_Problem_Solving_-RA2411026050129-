@@ -17,3 +17,5 @@ Run main.py
 ## Sample Output
 BFS Path: ['A', 'C', 'F']
 DFS Path: ['A', 'B', 'E', 'F']
+AI Assignment
+Updated README
